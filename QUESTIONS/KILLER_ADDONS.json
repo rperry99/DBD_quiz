@@ -1,0 +1,102 @@
+{
+    "killer_addons" : [
+        {
+            "addonName": "Bear Oil",
+            "rarity": "Common",
+            "killer": "The Trapper",
+            "ability": ["Setting a Bear Trap is silent."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/IconAddon_bearOil.png/revision/latest?cb=20231111143326"
+        },
+        {
+            "addonName": "Makeshift Wrap",
+            "rarity": "Common",
+            "killer": "The Trapper",
+            "ability": ["You are no longer caught by your own Bear Traps, they are automatically disarmed instead."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a7/IconAddon_makeshiftWrap.png/revision/latest?cb=20231111143348"
+        },
+        {
+            "addonName": "Padded Jaws",
+            "rarity": "Common",
+            "killer": "The Trapper",
+            "ability": ["Bear Traps immobilize survivors without damaging them.", "Grants 100% bonus Bloodpoints for trapping Survivors."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6f/IconAddon_paddedJaws.png/revision/latest?cb=20231111143353"
+        },
+        {
+            "addonName": "Trapper Gloves",
+            "rarity": "Common",
+            "killer": "The Trapper",
+            "ability": ["Increases the Setting Speed of the Bear Trap by +30%."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/42/IconAddon_trapperGloves.png/revision/latest?cb=20160606165304"
+        },
+        {
+            "addonName": "4-Coil Spring Kit",
+            "rarity": "Uncommon",
+            "killer": "The Trapper",
+            "ability": ["Increase the Disarm time of the Bear Trap by +33%."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/IconAddon_4coilSpringKit.png/revision/latest?cb=20231111143320"
+        },
+        {
+            "addonName": "Coffee Grounds",
+            "rarity": "Uncommon",
+            "killer": "The Trapper",
+            "ability": ["Increases the strength of the Haste status effect when a Survivor is trapped by +5%."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/IconAddon_coffeeGrounds.png/revision/latest?cb=20231111143334"
+        },
+        {
+            "addonName": "Lengthened Jaws",
+            "rarity": "Uncommon",
+            "killer": "The Trapper",
+            "ability": ["Survivors who escape from Bear Traps suffer from the Deep Wound Status Effect."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/IconAddon_lengthenedJaws.png/revision/latest?cb=20231111143347"
+        },
+        {
+            "addonName": "Serrated Jaws",
+            "rarity": "Uncommon",
+            "killer": "The Trapper",
+            "ability": ["Survivors injured by a Bear Trap suffer from the Hemorrhage status effect until fully healed."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/IconAddon_serratedJaws.png/revision/latest?cb=20160606165401"
+        },
+        {
+            "addonName": "Wax Brick",
+            "rarity": "Uncommon",
+            "killer": "The Trapper",
+            "ability": ["Increases the Rescue and Escape times of the Bear Trap by +33%."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconAddon_waxBrick.png/revision/latest?cb=20160606165230"
+        },
+        {
+            "addonName": "Fastening Tools",
+            "rarity": "Rare",
+            "killer": "The Trapper",
+            "ability": ["Increases the Rescue and Escape times from the Bear Trap by +25%.", "Increases the Setting Speed of the Bear Trap by +50%."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/IconAddon_fasteningTools.png/revision/latest?cb=20231111143337"
+        },
+        {
+            "addonName": "Rusted Jaws",
+            "rarity": "Rare",
+            "killer": "The Trapper",
+            "ability": ["Survivors injured by a Bear Trap suffer from the Mangled Status Effect for 70 seconds."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/80/IconAddon_rustedJaws.png/revision/latest?cb=20160921162704"
+        },
+        {
+            "addonName": "Fastening Tools",
+            "rarity": "Rare",
+            "killer": "The Trapper",
+            "ability": ["Increases the Rescue and Escape times from the Bear Trap by +25%.", "Increases the Setting Speed of the Bear Trap by +50%."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/IconAddon_fasteningTools.png/revision/latest?cb=20231111143337"
+        },
+        {
+            "addonName": "Fastening Tools",
+            "rarity": "Rare",
+            "killer": "The Trapper",
+            "ability": ["Increases the Rescue and Escape times from the Bear Trap by +25%.", "Increases the Setting Speed of the Bear Trap by +50%."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/IconAddon_fasteningTools.png/revision/latest?cb=20231111143337"
+        },
+        {
+            "addonName": "Fastening Tools",
+            "rarity": "Rare",
+            "killer": "The Trapper",
+            "ability": ["Increases the Rescue and Escape times from the Bear Trap by +25%.", "Increases the Setting Speed of the Bear Trap by +50%."],
+            "imageURL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/IconAddon_fasteningTools.png/revision/latest?cb=20231111143337"
+        },
+    ]
+}
