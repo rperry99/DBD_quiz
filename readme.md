@@ -14,3 +14,175 @@ I have a hard time remembering what all the skills do based on symbols. There ar
 - [ ] Score page / status
   - [ ] Longest correct streak
   - [ ] Keep track of how many times you got a question right / wrong
+
+## JSON Checklist
+
+### Killers
+
+- [ ] The Trapper
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Wraith
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Hillbilly
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Nurse
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Shape
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Hag
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Doctor
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Huntress
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Cannibal
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Nightmare
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Pig
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Clown
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Spirit
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Legion
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Plague
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Ghost Face
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Demogorogon
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Oni
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Deathslinger
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Executioner
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Blight
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Twins
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Trickster
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Nemesis
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Cenobite
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Artist
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Onryō
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Dredge
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Mastermind
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Knight
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Skull Merchant
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Singularity
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Xenomorph
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Good Guy
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Unknown
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Lich
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Dark Lord
+  - [ ] Perks
+  - [ ] Add Ons
+- [ ] The Houndmaster
+  - [ ] Perks
+  - [ ] Add Ons
+
+### Survivor Perks
+
+- [ ] Dwight Fairfield
+- [ ] Meg Thomas
+- [ ] Claudette Morel
+- [ ] Jake Park
+- [ ] Nea Karlsson
+- [ ] Laurie Strode
+- [ ] Ace Visconti
+- [ ] Bill Overbeck
+- [ ] Feng Min
+- [ ] David King
+- [ ] Quentin Smith
+- [ ] David Tapp
+- [ ] Kate Denson
+- [ ] Adam Francis
+- [ ] Jeff Johansen
+- [ ] Jane Romero
+- [ ] Ash Williams
+- [ ] Nancy Wheeler
+- [ ] Steve Harrington
+- [ ] Yui Kimura
+- [ ] Zarina Kassir
+- [ ] Cheryl Mason
+- [ ] Felix Richter
+- [ ] Élodie Rakoto
+- [ ] Yun-Jin Lee
+- [ ] Jill Valentine
+- [ ] Leon S. Kennedy
+- [ ] Mikaela Reid
+- [ ] Jonah Vasquez
+- [ ] Yoichi Asakawa
+- [ ] Haddie Kaur
+- [ ] Ada Wong
+- [ ] Rebecca Chambers
+- [ ] Vittorio Toscano
+- [ ] Thalita Lyra
+- [ ] Renato Lyra
+- [ ] Gabriel Soma
+- [ ] Nicholas Cage
+- [ ] Ellen Ripley
+- [ ] Allen Wake
+- [ ] Sable Ward
+- [ ] Aestri Yazar & Baermar Uraz
+- [ ] Lara Croft
+- [ ] Trevor Belmont
+- [ ] Taurie Cain
+
+### Other Data
+
+- [ ] Status Effects
+- [ ] Survivor Add Ons
